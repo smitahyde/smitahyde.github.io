@@ -266,3 +266,7 @@ footer {
     display: none;
     padding: 15px 20px;
 }
+.sameSize {
+    height: 180px;
+    width: 445px;
+}
